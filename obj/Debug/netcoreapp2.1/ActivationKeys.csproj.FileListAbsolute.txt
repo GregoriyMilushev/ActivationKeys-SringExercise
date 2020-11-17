@@ -1,0 +1,11 @@
+C:\Users\Edi\source\repos\DictionaryExercise\ActivationKeys\bin\Debug\netcoreapp2.1\ActivationKeys.deps.json
+C:\Users\Edi\source\repos\DictionaryExercise\ActivationKeys\bin\Debug\netcoreapp2.1\ActivationKeys.runtimeconfig.json
+C:\Users\Edi\source\repos\DictionaryExercise\ActivationKeys\bin\Debug\netcoreapp2.1\ActivationKeys.runtimeconfig.dev.json
+C:\Users\Edi\source\repos\DictionaryExercise\ActivationKeys\bin\Debug\netcoreapp2.1\ActivationKeys.dll
+C:\Users\Edi\source\repos\DictionaryExercise\ActivationKeys\bin\Debug\netcoreapp2.1\ActivationKeys.pdb
+C:\Users\Edi\source\repos\DictionaryExercise\ActivationKeys\obj\Debug\netcoreapp2.1\ActivationKeys.csprojAssemblyReference.cache
+C:\Users\Edi\source\repos\DictionaryExercise\ActivationKeys\obj\Debug\netcoreapp2.1\ActivationKeys.csproj.CoreCompileInputs.cache
+C:\Users\Edi\source\repos\DictionaryExercise\ActivationKeys\obj\Debug\netcoreapp2.1\ActivationKeys.AssemblyInfoInputs.cache
+C:\Users\Edi\source\repos\DictionaryExercise\ActivationKeys\obj\Debug\netcoreapp2.1\ActivationKeys.AssemblyInfo.cs
+C:\Users\Edi\source\repos\DictionaryExercise\ActivationKeys\obj\Debug\netcoreapp2.1\ActivationKeys.dll
+C:\Users\Edi\source\repos\DictionaryExercise\ActivationKeys\obj\Debug\netcoreapp2.1\ActivationKeys.pdb
